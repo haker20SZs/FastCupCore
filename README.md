@@ -30,3 +30,5 @@ Survival ядро - в данном ядре есть мобы и портал �
 Мой собственный проект:                                           
  MilordPE - @milordpe                                              
  
+Скачать ядро:
+https://github.com/haker20SZs/FastCupCore/archive/refs/heads/main.zip
